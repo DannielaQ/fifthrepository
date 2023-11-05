@@ -1,0 +1,16 @@
+body {
+ padding: 10px;   
+ margin: 40px;
+ font-size: 24px;
+ font-family: Arial, Helvetica, sans-serif;
+ background-image: url(https://images3.alphacoders.com/220/22085.jpg);
+ background-repeat: no-repeat;
+ background-size:cover;
+ color: white;
+}
+nav {
+    background-color: white;
+    padding: 0px;
+    color:rgb(193, 170, 215) ;
+
+}
